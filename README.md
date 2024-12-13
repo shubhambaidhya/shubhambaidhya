@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Man Singh Baidhya</h1>
-<h3 align="center">💻 Passionate about coding, problem-solving, and innovative tech solutions.</h3>
+<h3 align="center">📚 Constant learner and enthusiastic about tackling real-world challenges through technology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhambaidhya" alt="shubhambaidhya" /></a> </p>
 
