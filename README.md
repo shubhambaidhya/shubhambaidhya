@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhambaidhya" alt="shubhambaidhya" /></a> </p>
 
-- 🔭 I’m currently working on **Verfiy-Ai**
+- 🔭 I’m currently working on **Verfiy-AI**
 
 - 🌱 I’m currently learning **MongoDB, Express, React, and Node (MERN stack).**
 
@@ -24,6 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhambaidhya&show_icons=true&locale=en" alt="shubhambaidhya" /></p>
 
-
-<!--
-**shubhambaidhya/shubhambaidhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhambaidhya&" alt="shubhambaidhya" /></p>
