@@ -1,17 +1,17 @@
-# 👋 Hello there! I'm SHUBHAM MAN SINGH BAIDHYA
+# 👋 Hello! I'm SHUBHAM MAN SINGH BAIDHYA
 
-Welcome to my GitHub profile! I'm passionate about learning, building, and exploring the world of technology. Whether it's working on exciting projects, diving into code, or collaborating with others, I'm always eager to grow and contribute.
+Welcome to my GitHub profile! I'm passionate about building efficient systems and working with data. I enjoy turning raw data into meaningful insights and scalable solutions.
 
 ## 🚀 About Me
 
-- 🎓 Tech enthusiast with a curious mind
-- 💡 Constantly learning and exploring new skills
-- 💻 Interested in software development, web technologies, and creative problem-solving
+- 🎓 Aspiring Data Engineer
+- 💡 Focused on learning data pipelines, cloud tools, and big data technologies
+- 💻 Currently working on projects involving Python, SQL, and cloud platforms
 
 ## 📫 Let's Connect
 
-Feel free to check out my repositories or reach out to me!
+Feel free to explore my repositories or get in touch if you'd like to collaborate or chat!
 
 ---
 
-Thanks for stopping by! 😊
+Thanks for visiting! 😊
