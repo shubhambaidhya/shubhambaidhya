@@ -1,4 +1,4 @@
-# 👋 Hello! I'm SHUBHAM MAN SINGH BAIDHYA
+# 👋 Hello! I'm Shubham Man Singh Baidhya
 
 Welcome to my GitHub profile! I'm passionate about building efficient systems and working with data. I enjoy turning raw data into meaningful insights and scalable solutions.
 
