@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient systems an
 
 ## 🚀 About Me
 
-- 🎓 Aspiring Data Engineer, Full Stack Web Developer(MERN)
+- 🎓 Aspiring Data Engineer
 - 💡 Focused on learning data pipelines, cloud tools, and big data technologies
 - 💻 Currently working on projects involving Python, SQL, and cloud platforms
 
