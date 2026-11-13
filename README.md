@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm interested on building efficient system and wo
 ## 📫 Let's Connect
 
 Feel free to explore my repositories or get in touch if you'd like to collaborate or chat!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambaidhya/)
 
 ---
